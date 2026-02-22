@@ -43,7 +43,7 @@ quiz_questions = [
     {
         "type": "input", 
         "name": "contact_info", 
-        "message": "How to contact you:"
+        "message": "Contact Info (email, Github, LinkedIn, etc):"
      },
 
 
