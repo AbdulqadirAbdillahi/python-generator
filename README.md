@@ -1,19 +1,19 @@
 # card-component
 
 ## Description
-perfume websitw
+front end mentor exercise
 
 ## Installation
-easy
+go to frontendmentor.io, sign up and attempt the first exercise
 
 ## Usage
-easy
+open the index.html file and open live server
 
 ## License
 MIT
 
 ## Author
-abdul
+Abdulqadir
 
 ## Contact
 abdiqaadirabdillahi@gmail.com
