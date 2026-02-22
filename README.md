@@ -1,20 +1,20 @@
-# card-component
+# Python README
 
 ## Description
-front end mentor exercise
+This tool helps developers quickly generate a README.md file for their GitHub projects. It collects project details through simple prompts and produces a neatly formatted markdown file.
 
 ## Installation
-go to frontendmentor.io, sign up and attempt the first exercise
+Download or clone the repository. Then, install required dependencies with pip install -r requirements.txt.
 
 ## Usage
-open the index.html file and open live server
+Run the script in your terminal using python main.py. Enter the requested project information when prompted. The README file will be created automatically.
 
 ## License
 MIT
 
 ## Author
-Abdulqadir
+Abdulqadir Abdillahi
 
 ## Contact
-abdiqaadirabdillahi@gmail.com
+reach out at: abdiqaadirabdillahi@gmail.com
 
